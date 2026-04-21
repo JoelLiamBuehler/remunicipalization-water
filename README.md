@@ -3,8 +3,8 @@ This repository contains the data files for "The Effect of the Remunicipalizatio
 
 ## Variable names
 
-**id**: dataset-level municipality identifier
-**Idescat_code**: identifier by the Statistical Institute of Catalonia
+- **id**: dataset-level municipality identifier
+- **Idescat_code**: identifier by the Statistical Institute of Catalonia
 **municipality**: Standardized municipality name
 **year**: Year of observation
 **group**: Year when municipality remunicipalized urban water
